@@ -3,20 +3,32 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi, I'm Johnny and I live in the Shire. Thanks for visiting my site.
+Hi, my name is Jeremy.
+Thanks for paying me a visit today!
 
-I program and write about software development when I have the time. More information can be found through <a href="https://www.linkedin.com/" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
+I am an aspiring writer, musician, programmer, and avid learner.
+
+I am searching for the optimal experience, where I can realize my full potential.
 
 ----
 
 ## The Website
-This site was made on an [Apple MBP](https://www.apple.com/) powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-I'd love to hear your feedback on this site and my work.
+This website was created using <a href="https://github.com/mkchoi212/paper-jekyll-theme">Paper</a>, a Jekyll theme created by <a href="https://deadbeef.me">Mike Choi</a>.
+
+If you have anything interesting to send me or if you want to talk about anything, feel free to e-mail me at: apachedragonfly@protonmai.com
+
+----
+
+## Apache Dragonfly?
+
+The name of this website is based upon an experience I had a few years ago that changed my life and how my brain works (for the better).
+
+I will elaborate further eventually.
 
 ----
 
 ## Etcetera
 
-- [Instagram](https://www.instagram.com/) for 📸
-- [Facebook](https://www.facebook.com/) for 🕺
+- [Instagram](https://www.instagram.com/jeremycsaunders) for 📸
+- [LinkedIn](https://www.linkedin.com/in/jeremycsaunders) for 🤝🏻
 
