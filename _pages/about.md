@@ -15,7 +15,7 @@ I am searching for the optimal experience. On my journey I plan to discover my f
 ## The Website
 This website was created using <a href="https://github.com/mkchoi212/paper-jekyll-theme">Paper</a>, a Jekyll theme created by <a href="https://deadbeef.me">Mike Choi</a>.
 
-If you have anything interesting to send me or if you want to talk about anything, feel free to e-mail me at: apachedragonfly@protonmai.com
+If you have anything interesting to send me or if you want to talk about anything, feel free to e-mail me <a href="apachedragonfly@protonmail.com">here</a>.
 
 ----
 
