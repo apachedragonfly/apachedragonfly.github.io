@@ -8,7 +8,7 @@ email: jeremy@apachedragonfly.com
 twitter_username: jeremyctweets
 github_username: apachedragonfly
 
-baseurl: "/apacheblog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.apachedragonfly.com" # the base hostname & protocol for your site
 
 google_analytics_id: UA-1111111111-1
