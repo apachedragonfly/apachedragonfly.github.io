@@ -22,7 +22,7 @@ If you have anything interesting to send me or if you want to talk about anythin
 
 ## Apache Dragonfly?
 
-The name of this website is based upon an experience I had a few years ago that changed my life and how my brain works (for the better).
+The name of this website is based on a silly code name I came up with from a magical experience I had a couple of years ago.
 
 I will elaborate further eventually.
 
