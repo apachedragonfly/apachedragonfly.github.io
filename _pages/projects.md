@@ -5,9 +5,8 @@ permalink: /projects/
 ---
 
 # Creative
-- [Saga of Atlantagor](https://github.com/apachedragonfly/atlantagor){target='_blank'}
+- [Saga of Atlantagor](https://atlantagor.github.io)
 
 # Code
 
 # Music
-
