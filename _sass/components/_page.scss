@@ -7,7 +7,7 @@
 }
 
 .c-page__header {
-    margin-bottom: 10rem; // 100px
+    margin-bottom: 4rem; // 
 
     h1 {
         margin-bottom: 2.5rem; // 25px
@@ -17,7 +17,6 @@
 
     p {
         @include fs--meta;
-        color: #ECA400;
     }
 }
 
