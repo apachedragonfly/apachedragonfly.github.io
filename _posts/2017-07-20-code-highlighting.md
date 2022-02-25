@@ -2,7 +2,7 @@
 layout: post
 title: "Syntax Highlighting Post"
 description: "Demo post displaying the various ways of highlighting code in Markdown."
-date: 2017-07-20
+date: 2031-07-20
 tags: sample post, code, highlighting
 comments: true
 ---
