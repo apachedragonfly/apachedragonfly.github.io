@@ -24,7 +24,7 @@ html {
 body {
     @include ff--sans-serif(400);
     -webkit-font-smoothing: antialiased;
-    background-color: #070600;
+    background-color: #0C0F23;
 }
 
 article,
@@ -110,7 +110,7 @@ a {
       height: 0%;
       left: 0;
       bottom: 0;
-      background-color: $c-accent__red;
+      background-color: $c-accent__seagreen;
       transition: all ease 0.3s;
     }
 
@@ -175,5 +175,5 @@ code, pre {
 
 }
 small {
-        color: gray;
+        color: ;
 }
