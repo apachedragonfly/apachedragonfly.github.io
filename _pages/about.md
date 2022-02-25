@@ -8,8 +8,9 @@ Thanks for paying me a visit today!
 
 I am an aspiring writer, musician, programmer, and avid learner.
 
-I am searching for the optimal experience. 
-On this journey I plan to discover my full potential.
+I am searching for the optimal experience.
+
+This is me documenting my journey to discovering my full potential.
 
 ----
 
@@ -31,5 +32,3 @@ I will elaborate further eventually.
 ## Etcetera
 
 - [Instagram](https://www.instagram.com/jeremycsaunders) for 📸
-- [LinkedIn](https://www.linkedin.com/in/jeremycsaunders) for 🤝🏻
-
