@@ -42,7 +42,7 @@ section {
 }
 
 header a {
-  padding: 5px 1px;
+  padding: 2px 1px;
 }
 
 h1,
@@ -86,13 +86,13 @@ svg {
 }
 
 .center {
-  text-align: center; 
+  text-align: center;
 }
 
 /* Links */
 
 a {
-    color: $c-accent__blue;
+    color: $c-accent__red;
     background-color: transparent;
     text-decoration: none;
 
@@ -100,7 +100,7 @@ a {
     display: inline-block;
     padding: 0px 1px;
     transition: color ease 0.3s;
-    
+
     /* Hover animation effect for all buttons */
     &::after {
       content: '';
@@ -110,7 +110,7 @@ a {
       height: 0%;
       left: 0;
       bottom: 0;
-      background-color: $c-accent__blue;
+      background-color: $c-accent__red;
       transition: all ease 0.3s;
     }
 
@@ -128,14 +128,14 @@ a.no-hov {
 	&:after {
 		content: none
 	}
-	
+
 	&:hover {
-		color: $c-accent__darkblue
+		color: $c-accent__red;
 	}
 }
 
 a.nav {
-  padding: 10px 35px;  
+  padding: 10px 35px;
   overflow:hidden;
 }
 a.nav:before {
@@ -177,4 +177,3 @@ code, pre {
 small {
         color: gray;
 }
-

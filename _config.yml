@@ -1,10 +1,10 @@
 # Site settings
 title: "apache dragonfly"
-description: > 
-  Hi, I'm Jeremy. Welcome to my writing project.
+description: >
+  Hi, I'm Jeremy. Welcome to my part of the internet.
 
 author: Jeremy C
-email: jeremy@apachedragonfly.com 
+email: jeremy@apachedragonfly.com
 twitter_username: jeremyctweets
 github_username: apachedragonfly
 
@@ -23,4 +23,3 @@ sass:
     style: compressed
 
 exclude: [vendor]
-
