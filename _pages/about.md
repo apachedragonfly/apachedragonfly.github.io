@@ -22,4 +22,4 @@ If you have anything interesting to send me or if you want to talk about anythin
 
 ## Etcetera
 
-- [Instagram](https://www.instagram.com/jeremycsaunders) for 📸
+- [Instagram](https://www.instagram.com/jeremyspictures) for 📸
