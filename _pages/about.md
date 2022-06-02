@@ -8,8 +8,6 @@ Thanks for paying me a visit today!
 
 I am an aspiring writer, musician, programmer, and avid learner.
 
-I am searching for the optimal experience.
-
 This is me documenting my journey to discovering my full potential.
 
 ----
@@ -21,13 +19,6 @@ If you have anything interesting to send me or if you want to talk about anythin
 
 ----
 
-## Apache Dragonfly?
-
-The name of this website is based on a silly code name I came up with from a magical experience I had a couple of years ago.
-
-I will elaborate further eventually.
-
-----
 
 ## Etcetera
 
